@@ -1,0 +1,19 @@
+{
+  "name": "fsd56wd-be",
+  "version": "1.0.0",
+  "description": "Backend Application with NodeJS + ExpressJS + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviChowdary97/fsd56wd-be.git"
+  },
+  "author": "Ravi Chowdary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviChowdary97/fsd56wd-be/issues"
+  },
+  "homepage": "https://github.com/RaviChowdary97/fsd56wd-be#readme"
+}
